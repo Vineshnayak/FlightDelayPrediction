@@ -1,4 +1,4 @@
-## ** Flight Delay Prediction & Visualization**
+##  Flight Delay Prediction & Visualization
 
 **Machine learning project that predicts flight arrival delays and visualizes delay behaviour across airports and time periods.**
 The script loads `flight_delay_predict.csv`, performs **EDA and visualizations**, scales selected features, trains a **TensorFlow neural network**, evaluates the model, and supports **real-time user input prediction** from the console. 
